@@ -8,7 +8,6 @@ function solution(n) {
   } else if (vLength === 3) {
     var answer = "수박수";
   }
-
   return answer;
 }
 
